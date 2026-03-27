@@ -75,15 +75,6 @@ This project was created to understand how GUI applications and time-based event
 
 ---
 
-## 🔮 Future Improvements
-
-* Add snooze option
-* Save alarms to file
-* Improve UI design
-* Custom alarm tones
-
----
-
 ## 📚 What I Learned
 
 * Basics of GUI development using Tkinter
