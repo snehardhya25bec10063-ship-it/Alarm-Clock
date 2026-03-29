@@ -63,7 +63,8 @@ This project was created to understand how GUI applications and time-based event
 
 ## 📷 Preview
 
-Screenshot 2026-03-27 220713.png
+<img width="1745" height="944" alt="Screenshot 2026-03-27 220713" src="https://github.com/user-attachments/assets/76f02d16-8c11-4302-b4d2-7add78ba164c" />
+
 
 ---
 
