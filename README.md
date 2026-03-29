@@ -63,7 +63,7 @@ This project was created to understand how GUI applications and time-based event
 
 ## 📷 Preview
 
-(Add a screenshot of your app here)
+Screenshot 2026-03-27 220713.png
 
 ---
 
